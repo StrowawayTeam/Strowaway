@@ -51,11 +51,3 @@
 1. Скачай `StrowawayAntivirus.exe`
 2. Запусти файл
 3. Готово!
-
-## 🔧 Сборка из исходников
-
-```bash
-git clone https://github.com/avercin16-gif/Strowaway.git
-cd Strowaway
-pip install -r requirements.txt
-python main.py
